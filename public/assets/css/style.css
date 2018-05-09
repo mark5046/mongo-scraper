@@ -1,0 +1,66 @@
+body {
+	background-position: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Roboto Slab', serif;
+}
+
+.btn-danger {
+  background-color: #0b6b10;
+  border-color: #0b6b10;
+}
+
+.btn-danger:hover {
+  background-color: #54dd5b;
+  border-color: #54dd5b;
+}
+
+.panel-default>.panel-heading {
+	background-color: black;
+  color: #fff;
+}
+
+.panel-default {
+  border-color: black;
+}
+
+.artLink {
+  color: blue;
+}
+
+.saved-buttons {
+  margin-right: 1em;
+}
+
+.noteText {
+  color: #133352;
+}
+
+.deletex {
+  color: #133352;
+}
+
+.modal-body{
+	background-image: url(../img/nyt.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.alert-warning {
+	color: #fff;
+	background-color: #722b2b;
+	border-color: #722b2b;
+}
+
+.main-img {
+	margin-bottom: 2em;
+	border-top: 2px solid #3f3535;
+	border-bottom: 2px solid #3f3535;
+}
+
+.savedArt {
+	margin: 0 auto;
+	width: 80%;
+}
